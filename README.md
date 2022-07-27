@@ -1,5 +1,7 @@
 ### Hello there!
 
+I am young software developer from [Dubai, Marina](https://en.wikipedia.org/wiki/Dubai_Marina)
+
 🐳 Currently working at [Whales Corp](https://tonwhales.com/)
 
 <!---
