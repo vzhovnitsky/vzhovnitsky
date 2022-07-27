@@ -1,4 +1,4 @@
-#### Hello there!
+### Hello there!
 
 🐳 Currently working at [Whales Corp](https://tonwhales.com/)
 
