@@ -1,4 +1,4 @@
-Currently working at [Whales Corp](https://tonwhales.com/)
+🐳 Currently working at [Whales Corp](https://tonwhales.com/)
 
 <!---
 vzhovnitsky/vzhovnitsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
