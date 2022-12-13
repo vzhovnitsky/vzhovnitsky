@@ -1,7 +1,5 @@
 ### Hello there!
 
-I am a software developer from [Dubai](https://en.wikipedia.org/wiki/Dubai_Marina)
-
 🐳 Currently working at [Whales Corp](https://tonwhales.com/)
 
 <!---
